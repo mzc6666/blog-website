@@ -4,7 +4,7 @@ module.exports = {
   // 网站的描述
   description: "博客网站",
   // 基础路径
-  base: "/",
+  base: "/blog-website/",
   // 额外的<head>标签
   head: [],
   // 主机名
@@ -14,7 +14,7 @@ module.exports = {
   // 客户端文件的临时目录。
   temp: "/path/to/@vuepress/core/.temp",
   // 输出目录
-  dest: ".vuepress/dist",
+  // dest: ".vuepress/dist",
   // 多语言支持
   locales: undefined,
   // cache
